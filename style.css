@@ -1,0 +1,34 @@
+body{
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+}
+
+#hi{
+    border: 3px dashed brown;
+    background-color: burlywood;
+    width: 100%;
+}
+
+li{
+    width:1300px
+}
+
+#hi1{
+    display: none;
+}
+
+#hi:hover + #hi1{
+    display: inline;
+    background-color:wheat;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+h1{
+    background-color: chartreuse;
+}
+label{
+    background-color: blueviolet;
+    color: white;
+}
