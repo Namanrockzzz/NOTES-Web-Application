@@ -1,4 +1,4 @@
 # NOTES-Web-Application
-Check it here:
+Check here to open:
 <br>
 https://namanrockzzz.github.io/NOTES-Web-Application/
